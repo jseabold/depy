@@ -1,0 +1,4 @@
+*.dot
+*.npy
+*.pkl
+.ipynb_checkpoints
